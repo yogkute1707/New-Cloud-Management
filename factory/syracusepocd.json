@@ -1,0 +1,9 @@
+{
+	"name": "syracusepocd",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e71ec58b-1777-4f5f-af64-0c9272a3f2de",
+		"tenantId": "4278a402-1a9e-4eb9-8414-ffb55a5fcf1e"
+	}
+}
